@@ -1,13 +1,101 @@
 {
-  "updated_at": "2026-11-27T21:09:50.784234+00:00",
+  "updated_at": "2026-11-28T03:51:25.414856+00:00",
   "items": [
+    {
+      "title": "The Strategy playbook looks different in 2026",
+      "description": "The treasury company now holds 673,783 BTC, but flow is more likely to be episodic in this year’s financial climate",
+      "url": "https://blockworks.com/news/strategy-playbook-2026",
+      "published": "2026-11-28T03:51:25.103994+00:00",
+      "source": "Blockworks",
+      "score": 28.7,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "ETFs flash a bid, HumidiFi tokenizes",
+      "description": "BTC leads a broad crypto bid as ETFs post their strongest inflow in weeks",
+      "url": "https://blockworks.com/news/etfs-flash-humidifi-tokenizes",
+      "published": "2026-11-28T03:51:25.104292+00:00",
+      "source": "Blockworks",
+      "score": 28.7,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "Yield Basis is making native BTC yield a reality",
+      "description": "Yield Basis introduces an IL-free AMM design that already dominates BTC DEX liquidity",
+      "url": "https://blockworks.com/news/yield-basis-native-btc-yield",
+      "published": "2026-11-28T03:51:25.104074+00:00",
+      "source": "Blockworks",
+      "score": 27.2,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "DePIN and crypto gaming led a surprising end-of-year rebound",
+      "description": "BTC finished the week up 1.6%, while L2s, RWAs and the treasury trade continued to grind lower",
+      "url": "https://blockworks.com/news/depin-gaming-surprising-rebound",
+      "published": "2026-11-28T03:51:25.104034+00:00",
+      "source": "Blockworks",
+      "score": 25.7,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "BTC is up and L1s are down as flows turn messy again",
+      "description": "The Nasdaq slipped yesterday after disappointing Q3 revenue from Oracle",
+      "url": "https://blockworks.com/news/flows-turn-messy-again",
+      "published": "2026-11-28T03:51:25.104250+00:00",
+      "source": "Blockworks",
+      "score": 25.7,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "The productivity bull case for almost everything",
+      "description": "And the bear case for bitcoin",
+      "url": "https://blockworks.com/news/productivity-bull-case",
+      "published": "2026-11-28T03:51:25.104323+00:00",
+      "source": "Blockworks",
+      "score": 25.7,
+      "published_fa": "2026/11/28 03:51",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "Vitalik Buterin’s Bitcoin Hardware Wallet Fix Wouldn’t Be Approved by Ledger CTO",
+      "description": "Vitalik Buterin proposes open-source hardware security for bitcoin wallets, but Ledger's CTO previously called the idea wishful thinking.",
+      "url": "https://news.bitcoin.com/security/buterins-bitcoin-hardware-wallet-fix-wouldnt-approved-ledger-cto/",
+      "published": "2026-11-28T00:05:32+00:00",
+      "source": "Bitcoin.com",
+      "score": 24.46,
+      "published_fa": "2026/11/28 00:05",
+      "bias": "neutral",
+      "kind": "news"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-27T22:12:51+00:00",
+      "source": "Cointelegraph",
+      "score": 22.49,
+      "published_fa": "2026/11/27 22:12",
+      "bias": "neutral",
+      "kind": "news"
+    },
     {
       "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
       "description": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
       "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "2026-11-27T19:23:00+00:00",
       "source": "Cointelegraph",
-      "score": 29.74,
+      "score": 22.38,
       "published_fa": "2026/11/27 19:23",
       "bias": "neutral",
       "kind": "news"
@@ -18,96 +106,8 @@
       "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
       "published": "2026-11-27T20:46:02+00:00",
       "source": "Decrypt",
-      "score": 28.96,
+      "score": 21.6,
       "published_fa": "2026/11/27 20:46",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "The Strategy playbook looks different in 2026",
-      "description": "The treasury company now holds 673,783 BTC, but flow is more likely to be episodic in this year’s financial climate",
-      "url": "https://blockworks.com/news/strategy-playbook-2026",
-      "published": "2026-11-27T21:09:50.296485+00:00",
-      "source": "Blockworks",
-      "score": 28.7,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "ETFs flash a bid, HumidiFi tokenizes",
-      "description": "BTC leads a broad crypto bid as ETFs post their strongest inflow in weeks",
-      "url": "https://blockworks.com/news/etfs-flash-humidifi-tokenizes",
-      "published": "2026-11-27T21:09:50.296734+00:00",
-      "source": "Blockworks",
-      "score": 28.7,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "Yield Basis is making native BTC yield a reality",
-      "description": "Yield Basis introduces an IL-free AMM design that already dominates BTC DEX liquidity",
-      "url": "https://blockworks.com/news/yield-basis-native-btc-yield",
-      "published": "2026-11-27T21:09:50.296551+00:00",
-      "source": "Blockworks",
-      "score": 27.2,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
-      "description": "Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds. This post Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-      "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
-      "published": "2026-11-27T18:00:00+00:00",
-      "source": "Bitcoin Magazine",
-      "score": 26.72,
-      "published_fa": "2026/11/27 18:00",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "DePIN and crypto gaming led a surprising end-of-year rebound",
-      "description": "BTC finished the week up 1.6%, while L2s, RWAs and the treasury trade continued to grind lower",
-      "url": "https://blockworks.com/news/depin-gaming-surprising-rebound",
-      "published": "2026-11-27T21:09:50.296518+00:00",
-      "source": "Blockworks",
-      "score": 25.7,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "BTC is up and L1s are down as flows turn messy again",
-      "description": "The Nasdaq slipped yesterday after disappointing Q3 revenue from Oracle",
-      "url": "https://blockworks.com/news/flows-turn-messy-again",
-      "published": "2026-11-27T21:09:50.296699+00:00",
-      "source": "Blockworks",
-      "score": 25.7,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "The productivity bull case for almost everything",
-      "description": "And the bear case for bitcoin",
-      "url": "https://blockworks.com/news/productivity-bull-case",
-      "published": "2026-11-27T21:09:50.296760+00:00",
-      "source": "Blockworks",
-      "score": 25.7,
-      "published_fa": "2026/11/27 21:09",
-      "bias": "neutral",
-      "kind": "news"
-    },
-    {
-      "title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
-      "description": "▶ Bitcoin Magazine Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target first appeared on Bitcoin Magazine and is written by Patrick Green .",
-      "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
-      "published": "2026-11-27T14:45:09+00:00",
-      "source": "Bitcoin Magazine",
-      "score": 25.15,
-      "published_fa": "2026/11/27 14:45",
       "bias": "neutral",
       "kind": "news"
     }
